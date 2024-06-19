@@ -21,7 +21,7 @@ data = {
 # Convert the dictionary into a pandas DataFrame
 df = pd.DataFrame(data)
 
-st.title("Dataset by nisha")
+st.title("Dataset by nisha kathe")
 df
 
 # Split the dataset into features and target variable
