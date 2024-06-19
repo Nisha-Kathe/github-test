@@ -21,9 +21,8 @@ data = {
 # Convert the dictionary into a pandas DataFrame
 df = pd.DataFrame(data)
 
-st.title("Dataset")
+st.title("Dataset by nisha")
 df
-
 
 # Split the dataset into features and target variable
 X = df.drop('MentalHealthIssue', axis=1)
